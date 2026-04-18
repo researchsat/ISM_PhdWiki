@@ -46,9 +46,9 @@ def extract_tags(text):
     return list(dict.fromkeys(related))
 
 def bootstrap_wiki():
-    base_dir = '/Users/rduggineni/Documents/Papers2020-26_WikiAntiGravity'
-    index_path = os.path.join(base_dir, 'phd-wiki', 'wiki', '_index.md')
-    papers_dir = os.path.join(base_dir, 'phd-wiki', 'wiki', 'papers')
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+    index_path = os.path.join(base_dir, 'wiki', 'index.md')
+    papers_dir = os.path.join(base_dir, 'wiki', 'papers')
     
     with open(index_path, 'r', encoding='utf-8') as f:
         index_content = f.read()

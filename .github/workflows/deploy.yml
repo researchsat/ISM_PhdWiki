@@ -26,6 +26,14 @@ jobs:
       - name: Install Dependencies
         working-directory: ./quartz
         run: npm ci
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install Python Dependencies
+        run: pip install pyyaml
+      - name: Compile Dataview Dashboards
+        run: python scripts/compile_dashboards.py
       - name: Build Quartz
         working-directory: ./quartz
         run: npx quartz build
