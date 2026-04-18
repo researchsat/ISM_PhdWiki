@@ -6,11 +6,11 @@ papers:
   - "[[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf]]"
   - "[[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf]]"
   - "[[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf]]"
-  - "[[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf]]"
+  - "[[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf]]"
   - "[[../Nucleation and Growth Dynamics of Equiaxed Dendrites in Thin Metallic Al-Cu and Al-Ge Samples in Microgravity and on Earth_BECKER.pdf]]"
-  - "[[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
-  - "[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf]]"
-  - "[[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN.pdf]]"
+  - "[[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
+  - "[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf]]"
+  - "[[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.percent Si and Al-10 wt.percent Cu alloys_GUIYUAN.pdf]]"
   - "[[../Gravity and Composition Modulated Solidification and Mechanical Properties of Al-Cu Nanostructures_APURBA.pdf]]"
   - "[[../Concurrent model for sharp and progressive columnar to equiaxed transitions validated by directional solidification experiments processed in microgravity conditions_ROBIN.pdf]]"
 related:
@@ -69,10 +69,10 @@ are the touchstone for validating every CET model in the wiki.
 | [[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf|Thomas 2023 — Al-Cu benchmark µg+1g]] | [[wiki/platforms/ISS-experiments|ISS experiments]] / [[wiki/platforms/CETSOL-MICAST-ICESOL|CETSOL MICAST ICESOL]] | Benchmark |
 | [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] | [[wiki/platforms/ISS-experiments|ISS experiments]] | Grain-refined hypoeutectic |
 | [[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf|Ngomesse 2023 — Al-20Cu CET in-situ]] | [[wiki/platforms/ISS-experiments|ISS experiments]] / Earth | In-situ CET |
-| [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | [[wiki/platforms/ISS-experiments|ISS experiments]] / Earth | X-radiography |
-| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | [[wiki/platforms/sounding-rockets|MASER-13]] | Front tracking |
+| [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | [[wiki/platforms/ISS-experiments|ISS experiments]] / Earth | X-radiography |
+| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | [[wiki/platforms/sounding-rockets|MASER-13]] | Front tracking |
 | [[../Nucleation and Growth Dynamics of Equiaxed Dendrites in Thin Metallic Al-Cu and Al-Ge Samples in Microgravity and on Earth_BECKER.pdf|Becker 2023 — Al-Cu / Al-Ge equiaxed µg]] | [[wiki/platforms/ISS-experiments|ISS experiments]] | Thin-sample equiaxed |
-| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | [[wiki/platforms/ISS-experiments|ISS experiments]] | g-jitter sensitivity |
+| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | [[wiki/platforms/ISS-experiments|ISS experiments]] | g-jitter sensitivity |
 
 ## Modelling hooks
 
@@ -95,11 +95,11 @@ front tracking (MASER-13); MD down to nanoscale
 | [[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf|Thomas 2023 — Al-Cu benchmark µg+1g]] | Canonical Al-Cu ISS benchmark for CET models |
 | [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] | ISS benchmark on grain-refined hypoeutectic Al-Cu |
 | [[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf|Ngomesse 2023 — Al-20Cu CET in-situ]] | In-situ CET observation in Al-20Cu, µg vs 1g |
-| [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
+| [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
 | [[../Nucleation and Growth Dynamics of Equiaxed Dendrites in Thin Metallic Al-Cu and Al-Ge Samples in Microgravity and on Earth_BECKER.pdf|Becker 2023 — Al-Cu / Al-Ge equiaxed µg]] | Equiaxed nucleation/growth in thin Al-Cu / Al-Ge under µg |
-| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | Mesoscale front-tracking of MASER-13 Al-20Cu experiment |
-| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | g-jitter modifies equiaxed Al-20Cu solidification in µg |
-| [[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN.pdf|Guiyuan — Al-Si vs Al-Cu DS]] | Gravity effects compared for Al-Si and Al-Cu DS |
+| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | Mesoscale front-tracking of MASER-13 Al-20Cu experiment |
+| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | g-jitter modifies equiaxed Al-20Cu solidification in µg |
+| [[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.percent Si and Al-10 wt.percent Cu alloys_GUIYUAN.pdf|Guiyuan — Al-Si vs Al-Cu DS]] | Gravity effects compared for Al-Si and Al-Cu DS |
 | [[../Gravity and Composition Modulated Solidification and Mechanical Properties of Al-Cu Nanostructures_APURBA.pdf|Apurba — Al-Cu nanostructure MD]] | Gravity + composition effects on Al-Cu nanostructures (MD) |
 | [[../Concurrent model for sharp and progressive columnar to equiaxed transitions validated by directional solidification experiments processed in microgravity conditions_ROBIN.pdf|Robin 2023 — sharp/progressive CET model]] | Concurrent sharp+progressive CET model vs µg DS |
 

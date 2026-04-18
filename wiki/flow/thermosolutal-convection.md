@@ -4,9 +4,9 @@ category: flow
 tags: [buoyancy, double-diffusive, Ra, Le]
 papers:
   - "[[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf]]"
-  - "[[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf]]"
-  - "[[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN.pdf]]"
-  - "[[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.% Si alloy under microgravity_YUZE.pdf]]"
+  - "[[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf]]"
+  - "[[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.percent Si and Al-10 wt.percent Cu alloys_GUIYUAN.pdf]]"
+  - "[[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.percent Si alloy under microgravity_YUZE.pdf]]"
   - "[[../Mesoscopic modeling of equiaxed and columnar solidification microstructures under forced flow and buoyancy-driven flow in hypergravity_VIARDIN.pdf]]"
   - "[[../A review on solidification of alloys under hypergravity_FANGJIE.pdf]]"
 related:
@@ -53,7 +53,7 @@ the thermal+solutal Rayleigh numbers toward zero, isolating diffusion.
 
 ## Microgravity vs hypergravity
 
-- µg: [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]] and [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]]
+- µg: [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]] and [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]]
   show morphology shifts as Ra is reduced.
 - Hypergravity: [[../A review on solidification of alloys under hypergravity_FANGJIE.pdf|Fangjie 2023 — hypergravity review]] reviews enhanced
   convection and its use to probe the mushy zone, complemented by
@@ -71,9 +71,9 @@ the thermal+solutal Rayleigh numbers toward zero, isolating diffusion.
 | Paper | Key finding |
 |-------|-------------|
 | [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]] | Directly contrasts µg vs 1g directional solidification patterns |
-| [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
-| [[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN.pdf|Guiyuan — Al-Si vs Al-Cu DS]] | Gravity effects compared for Al-Si and Al-Cu DS |
-| [[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.% Si alloy under microgravity_YUZE.pdf|Yuze — RMF on Al-7Si µg]] | Rotating magnetic field modifies Al-7Si µg microstructure |
+| [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
+| [[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.percent Si and Al-10 wt.percent Cu alloys_GUIYUAN.pdf|Guiyuan — Al-Si vs Al-Cu DS]] | Gravity effects compared for Al-Si and Al-Cu DS |
+| [[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.percent Si alloy under microgravity_YUZE.pdf|Yuze — RMF on Al-7Si µg]] | Rotating magnetic field modifies Al-7Si µg microstructure |
 | [[../Mesoscopic modeling of equiaxed and columnar solidification microstructures under forced flow and buoyancy-driven flow in hypergravity_VIARDIN.pdf|Viardin — mesoscopic hypergravity]] | Mesoscopic CET modelling under forced+buoyant flow |
 | [[../A review on solidification of alloys under hypergravity_FANGJIE.pdf|Fangjie 2023 — hypergravity review]] | Review of solidification under hypergravity (centrifuge) |
 

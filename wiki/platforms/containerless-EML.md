@@ -15,7 +15,7 @@ papers:
   - "[[../Remarkable undercooling capability and metastable thermophysical properties of liquid Nb84.1Si15.9 alloy revealed by electrostatic levitation in outer space_CHANG.pdf]]"
   - "[[../1D and 3D co-simulation and self-adaptive position control of electrostatic levitation in China's Space Station_ZHANG.pdf]]"
   - "[[../Non-destructive investigation of thermophysical properties on the China's space station- In-orbit experiment measurements and analysis_QIU_ZHONG.pdf]]"
-  - "[[../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19%Si alloy_LHU.pdf]]"
+  - "[[../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19percentSi alloy_LHU.pdf]]"
   - "[[../Materials dataset from microgravity levitation experiments on the China Space Station_YANAN.pdf]]"
   - "[[../Extraordinary Solidification Mechanism of Liquid Alloys Under Acoustic Levitation State_GENG.pdf]]"
 related:
@@ -55,7 +55,7 @@ on Earth. Primary platforms:
   [[../Demonstration of the effect of stirring on nucleation from experiments on the International Space Station using the ISS-EML facility_GANGOPADHYAY.pdf|Gangopadhyay 2022 — ISS-EML stirring & nucleation]], [[../A Model for the Anomalous Velocity-Undercooling Behaviour of Levitated Al-Ni Alloys On-board the International Space Station_ANDREW.pdf|Andrew 2023 — Al-Ni ISS-EML kinetics]].
 - **CSS-ESL** (Chinese Space Station) — [[../1D and 3D co-simulation and self-adaptive position control of electrostatic levitation in China's Space Station_ZHANG.pdf|Zhang 2024 — ESL control on CSS]],
   [[../Non-destructive investigation of thermophysical properties on the China's space station- In-orbit experiment measurements and analysis_QIU_ZHONG.pdf|Qiu/Zhong 2024 — CSS ESL thermophysics]], [[../Remarkable undercooling capability and metastable thermophysical properties of liquid Nb84.1Si15.9 alloy revealed by electrostatic levitation in outer space_CHANG.pdf|Chang 2024 — Nb-Si ESL undercooling]],
-  [[../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19%Si alloy_LHU.pdf|Lhu — Fe-19Si on CSS]], [[../Materials dataset from microgravity levitation experiments on the China Space Station_YANAN.pdf|Yanan 2024 — CSS materials dataset]].
+  [[../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19percentSi alloy_LHU.pdf|Lhu — Fe-19Si on CSS]], [[../Materials dataset from microgravity levitation experiments on the China Space Station_YANAN.pdf|Yanan 2024 — CSS materials dataset]].
 - **Acoustic levitation** — [[../Extraordinary Solidification Mechanism of Liquid Alloys Under Acoustic Levitation State_GENG.pdf|Geng 2023 — acoustic levitation solidification]].
 - **Freely floated droplets** — [[../Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf|Haipeng 2024 — refractory droplet freezing in space]],
   [[../Metastable Liquid Properties and Surface Flow Patterns of Ultrahigh Temperature Alloys Explored In Outer Space_WANG.pdf|Wang — UHT alloys & Marangoni in space]].
@@ -94,7 +94,7 @@ on Earth. Primary platforms:
 | [[../Remarkable undercooling capability and metastable thermophysical properties of liquid Nb84.1Si15.9 alloy revealed by electrostatic levitation in outer space_CHANG.pdf|Chang 2024 — Nb-Si ESL undercooling]] | Deep undercooling of Nb-Si via space ESL |
 | [[../1D and 3D co-simulation and self-adaptive position control of electrostatic levitation in China's Space Station_ZHANG.pdf|Zhang 2024 — ESL control on CSS]] | Self-adaptive position control of ESL levitator on Tiangong |
 | [[../Non-destructive investigation of thermophysical properties on the China's space station- In-orbit experiment measurements and analysis_QIU_ZHONG.pdf|Qiu/Zhong 2024 — CSS ESL thermophysics]] | Non-destructive ESL thermophysical measurements on CSS |
-| [[../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19%Si alloy_LHU.pdf|Lhu — Fe-19Si on CSS]] | Thermophysics + solidification of Fe-19Si on CSS |
+| [[../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19percentSi alloy_LHU.pdf|Lhu — Fe-19Si on CSS]] | Thermophysics + solidification of Fe-19Si on CSS |
 | [[../Materials dataset from microgravity levitation experiments on the China Space Station_YANAN.pdf|Yanan 2024 — CSS materials dataset]] | Open dataset from CSS levitation experiments |
 | [[../Extraordinary Solidification Mechanism of Liquid Alloys Under Acoustic Levitation State_GENG.pdf|Geng 2023 — acoustic levitation solidification]] | Acoustic levitation alters solidification pathways |
 

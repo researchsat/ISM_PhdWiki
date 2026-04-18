@@ -71,3 +71,27 @@ python3 phd-wiki/scripts/lint_wiki.py
 - If it catches a paper with no conceptual links (an "orphan"), it flags it.
 - If it catches a paper with `review_status: "draft"` missing critical reviews, it flags it.
 - It outputs exactly what broke directly to `phd-wiki/wiki/log.md`. Always aim for the script to report: *"All checks passed. Graph is healthy."*
+
+---
+
+## 6. Web Publication (Quartz Portal)
+
+Your wiki is now equipped with a production-ready Web Publication engine using Quartz v4. This allows you to publish your notes as a beautiful static site seamlessly integrating with your Vault.
+
+### Local Development and Preview
+
+To view your publication locally and see live hot-reloads of your edits:
+```bash
+cd quartz
+npx quartz build --serve
+```
+Then navigate to `http://localhost:8080` in your web browser.
+
+### Deploying to the Web (GitHub Pages)
+
+Your portal is fully configured with automated GitHub Actions.
+- When you `git commit` and `git push` your changes to the `main` branch, a background GitHub Actions workflow automatically builds your site and deploys it to GitHub Pages.
+- **Action Required**: Make sure you go into your GitHub repository settings, navigate to **Pages**, and set the build source to **"GitHub Actions"**.
+
+> [!TIP]
+> The Quartz engine `content` folder is cleanly mapped to your `wiki/` folder. You do not need to manage a separate publication directory! Keep writing natively in Obsidian, commit your work, and the published website will automatically synchronize your latest findings, search indices, and graph maps.

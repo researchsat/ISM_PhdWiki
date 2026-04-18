@@ -7,7 +7,7 @@ authors: ["Roosz"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wt% Si Alloy Solidified under Microgravity_ROOSZ.pdf]]"
+pdf: "[[../../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wtpercent Si Alloy Solidified under Microgravity_ROOSZ.pdf]]"
 source_status: "raw"
 tags:
   - paper
@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/physics/eutectic-solidification]]"
+related_pages:
+  - "[[wiki/physics/eutectic-solidification]]"
 review_status: "draft"
 last_reviewed: ""
 ---

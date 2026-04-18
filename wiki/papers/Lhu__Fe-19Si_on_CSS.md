@@ -7,7 +7,7 @@ authors: ["Lhu"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19%Si alloy_LHU.pdf]]"
+pdf: "[[../../Space station based experimental research on thermophysical properties and solidification mechanisms of Fe-19percentSi alloy_LHU.pdf]]"
 source_status: "raw"
 tags:
   - paper
@@ -43,8 +43,9 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/platforms/ISS-experiments]]"
-- "[[wiki/methods/thermophysical-property]]"
+related_pages:
+  - "[[wiki/platforms/ISS-experiments]]"
+  - "[[wiki/methods/thermophysical-property]]"
 review_status: "draft"
 last_reviewed: ""
 ---

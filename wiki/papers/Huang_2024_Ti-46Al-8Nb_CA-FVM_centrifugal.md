@@ -43,8 +43,9 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/alloys/Ti-alloys]]"
-- "[[wiki/modelling/CA-FE-models]]"
+related_pages:
+  - "[[wiki/alloys/Ti-alloys]]"
+  - "[[wiki/modelling/CA-FE-models]]"
 review_status: "draft"
 last_reviewed: ""
 ---

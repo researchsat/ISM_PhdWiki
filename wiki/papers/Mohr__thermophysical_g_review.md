@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/methods/thermophysical-property]]"
+related_pages:
+  - "[[wiki/methods/thermophysical-property]]"
 review_status: "draft"
 last_reviewed: ""
 ---

@@ -10,7 +10,7 @@ papers:
   - "[[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf]]"
   - "[[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf]]"
   - "[[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf]]"
-  - "[[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf]]"
+  - "[[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf]]"
   - "[[../XRISE-M- X-radiography facility for solidification and diffusion studies of alloys aboard sounding rockets_KARGL.pdf]]"
   - "[[../Spurious grain formation due to Marangoni convection during directional solidification of alloys in u-g environment of International Space Station_SEYED.pdf]]"
 related:
@@ -54,7 +54,7 @@ facilities.
 - Facilities & techniques: [[../Analysis of preparatory directional solidification experiments for a new X-ray facility for the International Space Station_REINHART.pdf|Reinhart 2022 — XRMON-ISS prep]],
   [[../XRISE-M- X-radiography facility for solidification and diffusion studies of alloys aboard sounding rockets_KARGL.pdf|Kargl — XRISE-M sounding rocket]].
 - Flow / artefact studies: [[../Spurious grain formation due to Marangoni convection during directional solidification of alloys in u-g environment of International Space Station_SEYED.pdf|Seyed — Marangoni-driven spurious grains ISS]],
-  [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]], [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]].
+  [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]], [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]].
 
 ## Connected topics
 
@@ -74,7 +74,7 @@ facilities.
 | [[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf|Ngomesse 2023 — Al-20Cu CET in-situ]] | In-situ CET observation in Al-20Cu, µg vs 1g |
 | [[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf|Thomas 2023 — Al-Cu benchmark µg+1g]] | Canonical Al-Cu ISS benchmark for CET models |
 | [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] | ISS benchmark on grain-refined hypoeutectic Al-Cu |
-| [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
+| [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
 | [[../XRISE-M- X-radiography facility for solidification and diffusion studies of alloys aboard sounding rockets_KARGL.pdf|Kargl — XRISE-M sounding rocket]] | XRISE-M sounding-rocket X-radiography facility |
 | [[../Spurious grain formation due to Marangoni convection during directional solidification of alloys in u-g environment of International Space Station_SEYED.pdf|Seyed — Marangoni-driven spurious grains ISS]] | Marangoni convection creates spurious grains on ISS DS |
 

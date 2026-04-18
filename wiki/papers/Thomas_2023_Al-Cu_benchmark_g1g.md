@@ -43,9 +43,10 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/alloys/Al-Cu]]"
-- "[[wiki/platforms/ISS-experiments]]"
-- "[[wiki/physics/nucleation-CET]]"
+related_pages:
+  - "[[wiki/alloys/Al-Cu]]"
+  - "[[wiki/platforms/ISS-experiments]]"
+  - "[[wiki/physics/nucleation-CET]]"
 review_status: "draft"
 last_reviewed: ""
 ---

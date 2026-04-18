@@ -43,8 +43,9 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/alloys/Al-Cu]]"
-- "[[wiki/physics/dendritic-growth]]"
+related_pages:
+  - "[[wiki/alloys/Al-Cu]]"
+  - "[[wiki/physics/dendritic-growth]]"
 review_status: "draft"
 last_reviewed: ""
 ---

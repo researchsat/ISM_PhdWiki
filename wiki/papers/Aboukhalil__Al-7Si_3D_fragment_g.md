@@ -7,7 +7,7 @@ authors: ["Aboukhalil"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../Three-dimensional investigation of fragment distribution in Al - 7 wt.% Si solidified in microgravity_ABOUKHALIL.pdf]]"
+pdf: "[[../../Three-dimensional investigation of fragment distribution in Al - 7 wt.percent Si solidified in microgravity_ABOUKHALIL.pdf]]"
 source_status: "raw"
 tags:
   - paper

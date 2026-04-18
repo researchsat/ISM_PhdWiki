@@ -7,7 +7,7 @@ authors: ["Yuze"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.% Si alloy under microgravity_YUZE.pdf]]"
+pdf: "[[../../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.percent Si alloy under microgravity_YUZE.pdf]]"
 source_status: "raw"
 tags:
   - paper

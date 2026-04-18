@@ -4,7 +4,7 @@ category: method
 tags: [method, EBSD, metallography, post-mortem]
 papers:
   - "[[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf]]"
-  - "[[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wt% Si Alloy Solidified under Microgravity_ROOSZ.pdf]]"
+  - "[[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wtpercent Si Alloy Solidified under Microgravity_ROOSZ.pdf]]"
   - "[[../An Analysis of Solidification Experiments With a Ti-46AI-8Nb Alloy Under Centrifugal Conditions- Modelling of Flow-Solidification Interaction and Grain Structure Evolution Using a Cellular Automaton With Finite Volume Method_HUANG.pdf]]"
   - "[[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf]]"
 related:
@@ -40,7 +40,7 @@ segregation maps.
 ## Wiki usage
 
 - [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] — CET metrics on recovered ISS Al-Cu.
-- [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wt% Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] — eutectic fraction metrology.
+- [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wtpercent Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] — eutectic fraction metrology.
 - [[../An Analysis of Solidification Experiments With a Ti-46AI-8Nb Alloy Under Centrifugal Conditions- Modelling of Flow-Solidification Interaction and Grain Structure Evolution Using a Cellular Automaton With Finite Volume Method_HUANG.pdf|Huang 2024 — Ti-46Al-8Nb CA-FVM centrifugal]] — CA-FVM validated by post-mortem
   grain structure.
 - [[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf|Ngomesse 2023 — Al-20Cu CET in-situ]] — complements in-situ X-ray.
@@ -56,7 +56,7 @@ segregation maps.
 | Paper | Key finding |
 |-------|-------------|
 | [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] | ISS benchmark on grain-refined hypoeutectic Al-Cu |
-| [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wt% Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] | Process parameters vs eutectic fraction and λ2 in Al-7Si µg |
+| [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wtpercent Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] | Process parameters vs eutectic fraction and λ2 in Al-7Si µg |
 | [[../An Analysis of Solidification Experiments With a Ti-46AI-8Nb Alloy Under Centrifugal Conditions- Modelling of Flow-Solidification Interaction and Grain Structure Evolution Using a Cellular Automaton With Finite Volume Method_HUANG.pdf|Huang 2024 — Ti-46Al-8Nb CA-FVM centrifugal]] | CA-FVM of flow–solidification in Ti-46Al-8Nb centrifugal casting |
 | [[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf|Ngomesse 2023 — Al-20Cu CET in-situ]] | In-situ CET observation in Al-20Cu, µg vs 1g |
 

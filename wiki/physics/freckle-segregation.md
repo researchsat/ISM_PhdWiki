@@ -6,8 +6,8 @@ papers:
   - "[[../Spurious grain formation due to Marangoni convection during directional solidification of alloys in u-g environment of International Space Station_SEYED.pdf]]"
   - "[[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf]]"
   - "[[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf]]"
-  - "[[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf]]"
-  - "[[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN.pdf]]"
+  - "[[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf]]"
+  - "[[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.percent Si and Al-10 wt.percent Cu alloys_GUIYUAN.pdf]]"
 related:
   - "[[wiki/physics/solidification]]"
   - "[[wiki/physics/mushy-zone]]"
@@ -73,8 +73,8 @@ under [[wiki/flow/marangoni-flow|marangoni flow]].
 | [[../Spurious grain formation due to Marangoni convection during directional solidification of alloys in u-g environment of International Space Station_SEYED.pdf|Seyed — Marangoni-driven spurious grains ISS]] | Marangoni convection creates spurious grains on ISS DS |
 | [[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf|Thomas 2023 — Al-Cu benchmark µg+1g]] | Canonical Al-Cu ISS benchmark for CET models |
 | [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]] | Directly contrasts µg vs 1g directional solidification patterns |
-| [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
-| [[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN.pdf|Guiyuan — Al-Si vs Al-Cu DS]] | Gravity effects compared for Al-Si and Al-Cu DS |
+| [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
+| [[../Comparative study of gravity effects in directional solidification of Al-3.5 wt.percent Si and Al-10 wt.percent Cu alloys_GUIYUAN.pdf|Guiyuan — Al-Si vs Al-Cu DS]] | Gravity effects compared for Al-Si and Al-Cu DS |
 
 ---
 *Last updated: 2026-04-18 · Auto-generated via LLM Wiki*

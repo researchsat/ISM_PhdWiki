@@ -43,8 +43,9 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/platforms/ISS-experiments]]"
-- "[[wiki/platforms/containerless-EML]]"
+related_pages:
+  - "[[wiki/platforms/ISS-experiments]]"
+  - "[[wiki/platforms/containerless-EML]]"
 review_status: "draft"
 last_reviewed: ""
 ---

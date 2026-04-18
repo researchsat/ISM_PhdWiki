@@ -7,7 +7,7 @@ authors: ["Härjer"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf]]"
+pdf: "[[../../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf]]"
 source_status: "raw"
 tags:
   - paper
@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/methods/directional-solidification]]"
+related_pages:
+  - "[[wiki/methods/directional-solidification]]"
 review_status: "draft"
 last_reviewed: ""
 ---

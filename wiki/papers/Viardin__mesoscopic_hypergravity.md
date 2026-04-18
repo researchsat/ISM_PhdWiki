@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/physics/nucleation-CET]]"
+related_pages:
+  - "[[wiki/physics/nucleation-CET]]"
 review_status: "draft"
 last_reviewed: ""
 ---

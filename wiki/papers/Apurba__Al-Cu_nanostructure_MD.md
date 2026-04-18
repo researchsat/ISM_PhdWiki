@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/alloys/Al-Cu]]"
+related_pages:
+  - "[[wiki/alloys/Al-Cu]]"
 review_status: "draft"
 last_reviewed: ""
 ---

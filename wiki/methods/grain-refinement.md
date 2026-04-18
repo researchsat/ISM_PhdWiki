@@ -4,10 +4,10 @@ category: method
 tags: [method, grain-refinement, inoculant, TiB2, stirring]
 papers:
   - "[[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf]]"
-  - "[[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.% Si alloy under microgravity_YUZE.pdf]]"
+  - "[[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.percent Si alloy under microgravity_YUZE.pdf]]"
   - "[[../Demonstration of the effect of stirring on nucleation from experiments on the International Space Station using the ISS-EML facility_GANGOPADHYAY.pdf]]"
-  - "[[../Three-dimensional investigation of fragment distribution in Al - 7 wt.% Si solidified in microgravity_ABOUKHALIL.pdf]]"
-  - "[[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf]]"
+  - "[[../Three-dimensional investigation of fragment distribution in Al - 7 wt.percent Si solidified in microgravity_ABOUKHALIL.pdf]]"
+  - "[[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf]]"
 related:
   - "[[wiki/physics/nucleation-CET]]"
   - "[[wiki/physics/dendritic-growth]]"
@@ -46,11 +46,11 @@ strength, fatigue life, and castability — through:
 
 - [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] — grain-refined hypoeutectic Al-Cu DS
   on ISS.
-- [[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.% Si alloy under microgravity_YUZE.pdf|Yuze — RMF on Al-7Si µg]] — rotating magnetic field refines Al-7Si in
+- [[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.percent Si alloy under microgravity_YUZE.pdf|Yuze — RMF on Al-7Si µg]] — rotating magnetic field refines Al-7Si in
   µg (forced flow without buoyancy).
 - [[../Demonstration of the effect of stirring on nucleation from experiments on the International Space Station using the ISS-EML facility_GANGOPADHYAY.pdf|Gangopadhyay 2022 — ISS-EML stirring & nucleation]] — stirring effects on nucleation
   in ISS-EML.
-- [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.% Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]] — 3D fragment distribution in Al-7Si.
+- [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.percent Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]] — 3D fragment distribution in Al-7Si.
 
 ## Connected topics
 
@@ -63,10 +63,10 @@ strength, fatigue life, and castability — through:
 | Paper | Key finding |
 |-------|-------------|
 | [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] | ISS benchmark on grain-refined hypoeutectic Al-Cu |
-| [[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.% Si alloy under microgravity_YUZE.pdf|Yuze — RMF on Al-7Si µg]] | Rotating magnetic field modifies Al-7Si µg microstructure |
+| [[../Modification of the microstructure by rotating magnetic field during the solidification of Al-7 wt.percent Si alloy under microgravity_YUZE.pdf|Yuze — RMF on Al-7Si µg]] | Rotating magnetic field modifies Al-7Si µg microstructure |
 | [[../Demonstration of the effect of stirring on nucleation from experiments on the International Space Station using the ISS-EML facility_GANGOPADHYAY.pdf|Gangopadhyay 2022 — ISS-EML stirring & nucleation]] | Stirring modifies nucleation in ISS-EML Zr-based liquids |
-| [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.% Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]] | 3D tomography of fragments in Al-7Si µg |
-| [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
+| [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.percent Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]] | 3D tomography of fragments in Al-7Si µg |
+| [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
 
 ---
 *Last updated: 2026-04-18 · Auto-generated via LLM Wiki*

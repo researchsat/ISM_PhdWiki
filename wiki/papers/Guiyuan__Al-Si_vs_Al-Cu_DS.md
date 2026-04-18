@@ -7,7 +7,7 @@ authors: ["Guiyuan"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../Comparative study of gravity effects in directional solidification of Al-3.5 wt.% Si and Al-10 wt.% Cu alloys_GUIYUAN.pdf]]"
+pdf: "[[../../Comparative study of gravity effects in directional solidification of Al-3.5 wt.percent Si and Al-10 wt.percent Cu alloys_GUIYUAN.pdf]]"
 source_status: "raw"
 tags:
   - paper
@@ -43,9 +43,10 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/alloys/Al-Cu]]"
-- "[[wiki/alloys/Al-Si]]"
-- "[[wiki/methods/directional-solidification]]"
+related_pages:
+  - "[[wiki/alloys/Al-Cu]]"
+  - "[[wiki/alloys/Al-Si]]"
+  - "[[wiki/methods/directional-solidification]]"
 review_status: "draft"
 last_reviewed: ""
 ---

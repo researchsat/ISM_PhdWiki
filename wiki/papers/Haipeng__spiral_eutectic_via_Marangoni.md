@@ -43,8 +43,9 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/physics/eutectic-solidification]]"
-- "[[wiki/flow/marangoni-flow]]"
+related_pages:
+  - "[[wiki/physics/eutectic-solidification]]"
+  - "[[wiki/flow/marangoni-flow]]"
 review_status: "draft"
 last_reviewed: ""
 ---

@@ -5,7 +5,7 @@ tags: [eutectic, lamellar, rod, peritectic, microgravity]
 papers:
   - "[[../In situ experiments in microgravity and phase-field simulations of th amellar-to-rod transition during eutectic growth_AKAMATSU.pdf]]"
   - "[[../Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf]]"
-  - "[[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wt% Si Alloy Solidified under Microgravity_ROOSZ.pdf]]"
+  - "[[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wtpercent Si Alloy Solidified under Microgravity_ROOSZ.pdf]]"
   - "[[../Observations of the occurrence and disappearance of peritectic couple growth performed under microgravity conditions_ANDREAS.pdf]]"
   - "[[../Outer space cultivated regular eutectic cells with anomalous internal microstructures for rapidly solidifying Zr50V50 hypereutectic alloy_HAIPENG.pdf]]"
   - "[[../Spiral eutectic growth dynamics facilitated by space Marangoni convection and liquid surface wave_HAIPENG.pdf]]"
@@ -50,7 +50,7 @@ be observed without buoyant perturbations.
 
 - [[../In situ experiments in microgravity and phase-field simulations of th amellar-to-rod transition during eutectic growth_AKAMATSU.pdf|Akamatsu — lamellar-to-rod in µg]] — lamellar-to-rod transition captured
   both experimentally and in [[wiki/modelling/phase-field|phase field]].
-- [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wt% Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] — eutectic fraction and λ2 in
+- [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wtpercent Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] — eutectic fraction and λ2 in
   [[wiki/alloys/Al-Si|Al-7Si]] µg.
 - [[../Spiral eutectic growth dynamics facilitated by space Marangoni convection and liquid surface wave_HAIPENG.pdf|Haipeng — spiral eutectic via Marangoni]] — [[wiki/flow/marangoni-flow|marangoni flow]]-driven spiral
   eutectic.
@@ -72,7 +72,7 @@ be observed without buoyant perturbations.
 |-------|-------------|
 | [[../In situ experiments in microgravity and phase-field simulations of th amellar-to-rod transition during eutectic growth_AKAMATSU.pdf|Akamatsu — lamellar-to-rod in µg]] | Lamellar-to-rod eutectic transition via µg + phase-field |
 | [[../Microgravity studies of solidification patterns in model transparent alloys onboard the International Space Station_AKAMATSU.pdf|Akamatsu — SCN transparent µg]] | ISS studies of patterns in transparent SCN-based analogs |
-| [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wt% Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] | Process parameters vs eutectic fraction and λ2 in Al-7Si µg |
+| [[../Influence of Solidification Parameters on the Amount of Eutectic and Secondary Arm Spacing of Al-7wtpercent Si Alloy Solidified under Microgravity_ROOSZ.pdf|Roosz — Al-7Si eutectic & λ2 in µg]] | Process parameters vs eutectic fraction and λ2 in Al-7Si µg |
 | [[../Observations of the occurrence and disappearance of peritectic couple growth performed under microgravity conditions_ANDREAS.pdf|Ludwig — peritectic couple growth µg]] | Appearance/disappearance of peritectic couple growth in µg |
 | [[../Outer space cultivated regular eutectic cells with anomalous internal microstructures for rapidly solidifying Zr50V50 hypereutectic alloy_HAIPENG.pdf|Haipeng — Zr50V50 hypereutectic in space]] | Anomalous eutectic cells in rapidly solidified Zr-V in space |
 | [[../Spiral eutectic growth dynamics facilitated by space Marangoni convection and liquid surface wave_HAIPENG.pdf|Haipeng — spiral eutectic via Marangoni]] | Space Marangoni drives spiral eutectic growth |

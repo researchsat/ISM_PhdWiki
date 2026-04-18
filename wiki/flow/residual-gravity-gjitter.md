@@ -3,7 +3,7 @@ title: "Residual gravity & g-jitter"
 category: flow
 tags: [g-jitter, residual-gravity, microgravity, ISS]
 papers:
-  - "[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf]]"
+  - "[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf]]"
   - "[[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf]]"
   - "[[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf]]"
   - "[[../Analysis of preparatory directional solidification experiments for a new X-ray facility for the International Space Station_REINHART.pdf]]"
@@ -44,7 +44,7 @@ otherwise diffusive mushy zone.
 
 ## Key finding
 
-[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] explicitly shows that g-level fluctuations
+[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] explicitly shows that g-level fluctuations
 modify equiaxed growth in Al-20Cu — meaning g-jitter must be considered
 when interpreting the [[wiki/alloys/Al-Cu|Al-Cu]] ISS benchmarks
 ([[../Benchmark Al-Cu Solidification Experiments in Microgravity and on Earth_THOMAS.pdf|Thomas 2023 — Al-Cu benchmark µg+1g]]).
@@ -67,7 +67,7 @@ when interpreting the [[wiki/alloys/Al-Cu|Al-Cu]] ISS benchmarks
 
 | Paper | Key finding |
 |-------|-------------|
-| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | g-jitter modifies equiaxed Al-20Cu solidification in µg |
+| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | g-jitter modifies equiaxed Al-20Cu solidification in µg |
 | [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]] | Directly contrasts µg vs 1g directional solidification patterns |
 | [[../Structures in grain-refined directionally solidified hypoeutectic Al-Cu alloys- Benchmark experiments under microgravity on-board the International Space Station_ZIMMERMANN.pdf|Zimmermann — grain-refined Al-Cu ISS]] | ISS benchmark on grain-refined hypoeutectic Al-Cu |
 | [[../Analysis of preparatory directional solidification experiments for a new X-ray facility for the International Space Station_REINHART.pdf|Reinhart 2022 — XRMON-ISS prep]] | Ground-based preparation for new ISS X-ray facility (XRMON) |

@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/platforms/sounding-rockets]]"
+related_pages:
+  - "[[wiki/platforms/sounding-rockets]]"
 review_status: "draft"
 last_reviewed: ""
 ---

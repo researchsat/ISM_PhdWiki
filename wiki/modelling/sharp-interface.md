@@ -3,7 +3,7 @@ title: "Sharp-interface and front-tracking models"
 category: modelling
 tags: [sharp-interface, front-tracking, level-set, solidification]
 papers:
-  - "[[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
+  - "[[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
   - "[[../Concurrent model for sharp and progressive columnar to equiaxed transitions validated by directional solidification experiments processed in microgravity conditions_ROBIN.pdf]]"
   - "[[../In-situ X-ray monitoring of solidification and related processes of metal alloys_REINHART.pdf]]"
 related:
@@ -39,7 +39,7 @@ natural bridge to [[wiki/modelling/CA-FE-models|CA-FE]] grain-scale simulations.
 
 ## Examples in wiki
 
-- [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] — MASER-13 Al-20Cu mesoscopic
+- [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] — MASER-13 Al-20Cu mesoscopic
   front tracking.
 - [[../Concurrent model for sharp and progressive columnar to equiaxed transitions validated by directional solidification experiments processed in microgravity conditions_ROBIN.pdf|Robin 2023 — sharp/progressive CET model]] — concurrent sharp + progressive CET
   model.
@@ -56,7 +56,7 @@ natural bridge to [[wiki/modelling/CA-FE-models|CA-FE]] grain-scale simulations.
 
 | Paper | Key finding |
 |-------|-------------|
-| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | Mesoscale front-tracking of MASER-13 Al-20Cu experiment |
+| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | Mesoscale front-tracking of MASER-13 Al-20Cu experiment |
 | [[../Concurrent model for sharp and progressive columnar to equiaxed transitions validated by directional solidification experiments processed in microgravity conditions_ROBIN.pdf|Robin 2023 — sharp/progressive CET model]] | Concurrent sharp+progressive CET model vs µg DS |
 | [[../In-situ X-ray monitoring of solidification and related processes of metal alloys_REINHART.pdf|Reinhart — in-situ X-ray review]] | Review of in-situ X-ray monitoring in alloy solidification |
 

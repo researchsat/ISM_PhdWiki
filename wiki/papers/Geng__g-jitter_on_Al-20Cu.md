@@ -7,7 +7,7 @@ authors: ["Geng"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf]]"
+pdf: "[[../../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf]]"
 source_status: "raw"
 tags:
   - paper

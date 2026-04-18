@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/platforms/ISS-experiments]]"
+related_pages:
+  - "[[wiki/platforms/ISS-experiments]]"
 review_status: "draft"
 last_reviewed: ""
 ---

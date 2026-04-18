@@ -5,8 +5,8 @@ tags: [physics, dendrite, tip-selection, microgravity]
 papers:
   - "[[../Nucleation and Growth Dynamics of Equiaxed Dendrites in Thin Metallic Al-Cu and Al-Ge Samples in Microgravity and on Earth_BECKER.pdf]]"
   - "[[../Automatic Detection of Dendritic Microstructure Using Computer Vision Deep Learning Models Trained with Phase Field Simulations_VIARDIN.pdf]]"
-  - "[[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf]]"
-  - "[[../Three-dimensional investigation of fragment distribution in Al - 7 wt.% Si solidified in microgravity_ABOUKHALIL.pdf]]"
+  - "[[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf]]"
+  - "[[../Three-dimensional investigation of fragment distribution in Al - 7 wt.percent Si solidified in microgravity_ABOUKHALIL.pdf]]"
   - "[[../Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf]]"
   - "[[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf]]"
   - "[[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf]]"
@@ -57,7 +57,7 @@ directly testable.
 - Sidebranch amplitude vs distance — phase-field benchmarks
   ([[wiki/modelling/phase-field|phase field]]).
 - Fragmentation / remelting producing [[wiki/physics/nucleation-CET|equiaxed grains]] —
-  [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.% Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]].
+  [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.percent Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]].
 
 ## Classic scalings
 
@@ -85,8 +85,8 @@ data to segment dendrites in experimental imagery — a bridge between
 |-------|-------------|
 | [[../Nucleation and Growth Dynamics of Equiaxed Dendrites in Thin Metallic Al-Cu and Al-Ge Samples in Microgravity and on Earth_BECKER.pdf|Becker 2023 — Al-Cu / Al-Ge equiaxed µg]] | Equiaxed nucleation/growth in thin Al-Cu / Al-Ge under µg |
 | [[../Automatic Detection of Dendritic Microstructure Using Computer Vision Deep Learning Models Trained with Phase Field Simulations_VIARDIN.pdf|Viardin 2023 — CV/DL on phase-field dendrites]] | CV/DL segmentation of dendrites trained on phase-field data |
-| [[../Impact of gravity on directional solidification of refined Al-20wt.%Cu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
-| [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.% Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]] | 3D tomography of fragments in Al-7Si µg |
+| [[../Impact of gravity on directional solidification of refined Al-20wt.percentCu alloy investigated by in situ X-radiography_HARJER.pdf|Härjer — Al-20Cu in-situ X-radiography]] | In-situ X-radiography of grain-refined Al-20Cu DS |
+| [[../Three-dimensional investigation of fragment distribution in Al - 7 wt.percent Si solidified in microgravity_ABOUKHALIL.pdf|Aboukhalil — Al-7Si 3D fragment µg]] | 3D tomography of fragments in Al-7Si µg |
 | [[../Freezing Shrinkage Dynamics and Surface Dendritic Growth of Floating Refractory Alloy Droplets in Outer Space_HAIPENG.pdf|Haipeng 2024 — refractory droplet freezing in space]] | Freezing shrinkage and surface dendrites on space-floated droplets |
 | [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]] | Directly contrasts µg vs 1g directional solidification patterns |
 | [[../In situ investigation of the Columnar-to-Equiaxed Transition during microgravity recoral solidification of Al-20 wt cu alloys on Earth_NGOMESSE.pdf|Ngomesse 2023 — Al-20Cu CET in-situ]] | In-situ CET observation in Al-20Cu, µg vs 1g |

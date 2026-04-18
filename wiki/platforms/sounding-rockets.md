@@ -3,7 +3,7 @@ title: "Sounding rockets (MASER, TEXUS, MAXUS)"
 category: platform
 tags: [platform, sounding-rocket, MASER, TEXUS, short-duration]
 papers:
-  - "[[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
+  - "[[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
   - "[[../XRISE-M- X-radiography facility for solidification and diffusion studies of alloys aboard sounding rockets_KARGL.pdf]]"
   - "[[../Analysis of preparatory directional solidification experiments for a new X-ray facility for the International Space Station_REINHART.pdf]]"
 related:
@@ -38,7 +38,7 @@ new X-ray diagnostics before ISS deployment.
 
 ## Wiki-referenced campaigns
 
-- [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] — MASER-13 Al-20Cu isothermal
+- [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] — MASER-13 Al-20Cu isothermal
   equiaxed experiment with mesoscale front-tracking simulation.
 - [[../XRISE-M- X-radiography facility for solidification and diffusion studies of alloys aboard sounding rockets_KARGL.pdf|Kargl — XRISE-M sounding rocket]] — XRISE-M X-radiography facility aboard
   sounding rockets.
@@ -57,7 +57,7 @@ new X-ray diagnostics before ISS deployment.
 
 | Paper | Key finding |
 |-------|-------------|
-| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | Mesoscale front-tracking of MASER-13 Al-20Cu experiment |
+| [[../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf|Murphy — MASER-13 front-tracking Al-20Cu]] | Mesoscale front-tracking of MASER-13 Al-20Cu experiment |
 | [[../XRISE-M- X-radiography facility for solidification and diffusion studies of alloys aboard sounding rockets_KARGL.pdf|Kargl — XRISE-M sounding rocket]] | XRISE-M sounding-rocket X-radiography facility |
 | [[../Analysis of preparatory directional solidification experiments for a new X-ray facility for the International Space Station_REINHART.pdf|Reinhart 2022 — XRMON-ISS prep]] | Ground-based preparation for new ISS X-ray facility (XRMON) |
 

@@ -12,7 +12,7 @@ papers:
   - "[[../Anomalous kinetics, patterns formation in recalescence, and final microstructure of rapidly solidified Al-rich AlNi alloys_GALENKO.pdf]]"
   - "[[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf]]"
   - "[[../Mesoscopic modeling of equiaxed and columnar solidification microstructures under forced flow and buoyancy-driven flow in hypergravity_VIARDIN.pdf]]"
-  - "[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf]]"
+  - "[[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf]]"
 related:
   - "[[wiki/physics/solidification]]"
   - "[[wiki/physics/dendritic-growth]]"
@@ -97,7 +97,7 @@ fragmentation of existing columnar arms.
 | [[../Anomalous kinetics, patterns formation in recalescence, and final microstructure of rapidly solidified Al-rich AlNi alloys_GALENKO.pdf|Galenko 2022 — Al-Ni rapid solidification]] | Anomalous recalescence kinetics in Al-rich Al-Ni |
 | [[../Analysis of gravity effects during binary alloy directional solidification by comparison of microgravity and Earth experiments with in situ observation_BERGEON.pdf|Bergeon 2022 — µg vs 1g DS in-situ]] | Directly contrasts µg vs 1g directional solidification patterns |
 | [[../Mesoscopic modeling of equiaxed and columnar solidification microstructures under forced flow and buoyancy-driven flow in hypergravity_VIARDIN.pdf|Viardin — mesoscopic hypergravity]] | Mesoscopic CET modelling under forced+buoyant flow |
-| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.%Cu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | g-jitter modifies equiaxed Al-20Cu solidification in µg |
+| [[../The Effect of g-Level Fluctuations on Equiaxed Solidification of an Al-20wt.percentCu Alloy in Microgravity_GENG.pdf|Geng — g-jitter on Al-20Cu]] | g-jitter modifies equiaxed Al-20Cu solidification in µg |
 
 ---
 *Last updated: 2026-04-18 · Auto-generated via LLM Wiki*

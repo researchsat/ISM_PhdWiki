@@ -7,7 +7,7 @@ authors: ["Murphy"]
 journal: ""
 doi: ""
 zotero_key: ""
-pdf: "[[../../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.%Cu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
+pdf: "[[../../Mesoscale Front Tracking Simulation of a Microgravity-based Isothermal Equiaxed Solidification Experiment of an Al20wt.percentCu Alloy performed on board the MASER 13 Sounding Rocket_MURPHY.pdf]]"
 source_status: "raw"
 tags:
   - paper
@@ -43,7 +43,8 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/platforms/sounding-rockets]]"
+related_pages:
+  - "[[wiki/platforms/sounding-rockets]]"
 review_status: "draft"
 last_reviewed: ""
 ---

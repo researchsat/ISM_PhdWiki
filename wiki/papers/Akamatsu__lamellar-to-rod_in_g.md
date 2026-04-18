@@ -43,8 +43,9 @@ relevance_to_my_phd: ""
 confidence: ""
 contradictions: []
 
-related_pages: - "[[wiki/modelling/phase-field]]"
-- "[[wiki/physics/eutectic-solidification]]"
+related_pages:
+  - "[[wiki/modelling/phase-field]]"
+  - "[[wiki/physics/eutectic-solidification]]"
 review_status: "draft"
 last_reviewed: ""
 ---
